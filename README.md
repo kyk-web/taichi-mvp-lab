@@ -122,13 +122,13 @@ taichi_mvp_lab/
 在 `main0.py` 中，窗口中显示一个彩色三角形，并支持通过按键进行旋转。
 
 <p align="center">
-  <img src="p0.gif" alt="项目运行演示" width="650">
+  <img src="p0/demo0.gif" alt="项目运行演示" width="650">
 </p>
 
 在 `main1.py` 中，窗口中显示一个具有透视效果的白色线框正方体，并支持动态旋转观察。
 
 <p align="center">
-  <img src="p1.gif" alt="项目运行演示" width="650">
+  <img src="p1/demo1.gif" alt="项目运行演示" width="650">
 </p>
 
 ---
